@@ -776,19 +776,6 @@ The system is not clinical-grade yet, but it provides a strong foundation for fu
 ## 👨‍💻 Authors
 
 - **Soumya Ray**  
-  `DL.AI.U4AID25105`
-
-- **Urnisa Rakshit**  
-  `DL.AI.U4AID25104`
-
-School of Artificial Intelligence  
-Amrita Vishwa Vidyapeetham, Faridabad
-
----
-
-## 🙏 Acknowledgement
-
-The authors sincerely acknowledge the guidance and support of **Dr. Abhishek Kumar**, Subject Coordinator for IoT and IE, School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Faridabad.
 
 ---
 
@@ -805,25 +792,6 @@ The authors sincerely acknowledge the guidance and support of **Dr. Abhishek Kum
 9. ThingSpeak, “ThingSpeak IoT Platform.”
 10. Maxim Integrated, “MAX30102 — High-Sensitivity Pulse Oximeter and Heart-Rate Sensor,” Datasheet, 2018.
 11. R. E. Kalman, “A New Approach to Linear Filtering and Prediction Problems,” *Journal of Basic Engineering*, 1960.
-
----
-
-## 📜 License
-
-This project is intended for **academic and educational use**.
-
-You may add a license depending on your intended distribution, such as:
-
-- MIT License
-- Apache License 2.0
-- GPL License
-
-Example:
-
-```text
-MIT License
-Copyright (c) 2026
-```
 
 ---
 
