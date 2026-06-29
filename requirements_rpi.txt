@@ -1,0 +1,8 @@
+# Requirements — Raspberry Pi 5 (Script 3: Inference)
+# Install with:  pip install -r requirements_rpi.txt
+# Inside a virtual env: python3 -m venv ~/hypoxia_env && source ~/hypoxia_env/bin/activate
+
+pyserial>=3.5        # UART serial communication with Arduino
+numpy>=1.23          # array operations + sliding window
+requests>=2.28       # ThingSpeak HTTP push
+tflite-runtime>=2.12 # lightweight TFLite inference (no full TF needed)

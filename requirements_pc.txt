@@ -1,0 +1,11 @@
+# Requirements — PC / Google Colab (Script 1: Training)
+# Install with:  pip install -r requirements_pc.txt
+
+wfdb>=4.1.0          # PhysioNet dataset downloader + WFDB reader
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+tensorflow>=2.12     # model building + TFLite conversion
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
